@@ -9,8 +9,11 @@ Prizes can only be retrieved
 |Objective|Prize|Available|
 |-|-|-|
 |Get GitHub desktop or Atom working locally |spotify gift card)|5|
-Improve documentation PR |starbucks gift card|5|
+Improve documentation Pull Request(PR) |starbucks gift card|5|
 Build a Probot integration |GitHub t-shirt|~|
 Successful merged technical PR successful close an issue within 7-days of the event |GitHub hoodie|~|
 
 ## How Claim a prize
+Please open an issue in this repo that corresponds to the objective completed.
+
+TODO: create an issue template for each objective
