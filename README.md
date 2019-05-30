@@ -13,7 +13,7 @@ Improve documentation Pull Request(PR) |starbucks gift card|5|TBD|
 Build a Probot integration |GitHub t-shirt|~|TBD|
 Successful merged technical PR successful close an issue within 7-days of the event |GitHub hoodie|~|TBD|
 
-*~ indicates there is no limit on claims to prizes*
+*~* *indicates there is no limit on claims to prize*
 
 ## How claim a prize
 Please open an issue in this repo that corresponds to the objective completed.
