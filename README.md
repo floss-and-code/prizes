@@ -6,12 +6,14 @@ The goal and focus for this event is increasing the awareness of Open Source in 
 
 Prizes can only be retrieved 
 
-|Objective|Prize|Available|
+|Objective|Prize|Available| Click to claim link|
 |-|-|-|
-|Get GitHub desktop or Atom working locally |spotify gift card)|5|
-Improve documentation Pull Request(PR) |starbucks gift card|5|
-Build a Probot integration |GitHub t-shirt|~|
-Successful merged technical PR successful close an issue within 7-days of the event |GitHub hoodie|~|
+|Get GitHub desktop or Atom working locally |spotify gift card)|5|TBD|
+Improve documentation Pull Request(PR) |starbucks gift card|5|TBD|
+Build a Probot integration |GitHub t-shirt|~|TBD|
+Successful merged technical PR successful close an issue within 7-days of the event |GitHub hoodie|~|TBD|
+
+*~ indicates there is no limit on claims to prizes*
 
 ## How claim a prize
 Please open an issue in this repo that corresponds to the objective completed.
