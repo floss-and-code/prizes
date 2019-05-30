@@ -7,7 +7,7 @@ The goal and focus for this event is increasing the awareness of Open Source in 
 Prizes can only be retrieved 
 
 |Objective|Prize|Available| Click to claim link|
-|-|-|-|
+|-|-|-|-|
 |Get GitHub desktop or Atom working locally |spotify gift card)|5|TBD|
 Improve documentation Pull Request(PR) |starbucks gift card|5|TBD|
 Build a Probot integration |GitHub t-shirt|~|TBD|
