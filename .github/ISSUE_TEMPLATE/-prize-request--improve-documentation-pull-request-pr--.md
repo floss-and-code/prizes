@@ -1,5 +1,5 @@
 ---
-name: "[Prize Request] Helping the next person: Improve documentation Pull Request(PR)\t"
+name: "[Prize Request] Documentation Pull Request(PR)\t"
 about: 'Completed at least one open pull request of substance (no typo fixes) improving
   documentation. '
 title: "[Prize]"
