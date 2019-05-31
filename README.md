@@ -8,7 +8,7 @@ Prizes can only be retrieved
 
 |Objective|Prize|Available| Click to claim link|
 |-|-|-|-|
-|Get [GitHub Desktop](https://github.com/desktop/desktop/blob/development/docs/contributing/setup.md) or [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md) working locally |spotify gift card)|5|TBD|
+|Get [GitHub Desktop](https://github.com/desktop/desktop/blob/development/docs/contributing/setup.md), [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md), [Microsoft VSCode](https://github.com/microsoft/vscode-pull-request-github#getting-started), [Visual Studio Code](https://github.com/github/VisualStudio/blob/master/CONTRIBUTING.md) working locally |spotify gift card)|5|TBD|
 Improve documentation Pull Request(PR) |starbucks gift card|5|TBD|
 Build a Probot integration |Octocat Plushie|~|TBD|
 Blog post sharing your experience at FLOSS and Code within 3-days of the event |GitHub t-shirt|~|TBD|
