@@ -11,6 +11,7 @@ Prizes can only be retrieved
 |Get GitHub desktop or Atom working locally |spotify gift card)|5|TBD|
 Improve documentation Pull Request(PR) |starbucks gift card|5|TBD|
 Build a Probot integration |GitHub t-shirt|~|TBD|
+Blog post sharing your experience at FLOSS and Code within 3-days of the event |GitHub t-shirt|~|TBD|
 Successful merged technical PR successful close an issue within 7-days of the event |GitHub hoodie|~|TBD|
 
 *~* *indicates there is no limit on claims to prize*
