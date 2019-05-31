@@ -1,5 +1,5 @@
 ---
-name: "Build a Probot integration"
+name: "[Prize Requets] Build a Probot integration"
 about: 'Build a Probot integration'
 title: "[Prize]"
 labels: probot integration
