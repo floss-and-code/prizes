@@ -10,7 +10,7 @@ Prizes can only be retrieved
 |-|-|-|-|
 |Get [GitHub Desktop](https://github.com/desktop/desktop/blob/development/docs/contributing/setup.md), [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md), [Microsoft VSCode](https://github.com/microsoft/vscode-pull-request-github#getting-started), [Visual Studio Code](https://github.com/github/VisualStudio/blob/master/CONTRIBUTING.md) working locally |starbucks gift card|5|TBD|
 Improve documentation Pull Request(PR) |Sppotify gift card + Headphones|5|TBD|
-Build a Probot integration |Octocat Plushie|~|TBD|
+Build a Probot integration |Octocat Plushie or figurine|12|TBD|
 Blog post sharing your experience at FLOSS and Code within 3-days of the event |GitHub t-shirt|~|TBD|
 Successful merged technical PR successful close an issue within 7-days of the event |GitHub hoodie|~|TBD|
 
