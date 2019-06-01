@@ -8,11 +8,11 @@ Prizes can only be retrieved
 
 |Name|Objective|Prize|Available| Click to claim link|
 |-|-|-|-|-|
-|Localhost an editor|Get [GitHub Desktop](https://github.com/desktop/desktop/blob/development/docs/contributing/setup.md), [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md), [Microsoft VSCode](https://github.com/microsoft/vscode-pull-request-github#getting-started), [Visual Studio Code](https://github.com/github/VisualStudio/blob/master/CONTRIBUTING.md) working locally |starbucks gift card|5|[claim the prize]()|
-|Documentation PR|Improve documentation Pull Request(PR) |Sppotify gift card + Headphones|5|[claim the prize]()|
-|Workflow automation|Build a Probot integration |Octocat Plushie or figurine|12|[claim the prize]()|
-|Words on the internet|Blog post sharing your experience at FLOSS and Code within 3-days of the event |GitHub t-shirt|~|[claim the prize]()|
-|Successful merge|Successful merged technical PR successful close an issue within 7-days of the event |GitHub hoodie|~|[claim the prize]()|
+|Localhost an editor|Get [GitHub Desktop](https://github.com/desktop/desktop/blob/development/docs/contributing/setup.md), [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md), [Microsoft VSCode](https://github.com/microsoft/vscode-pull-request-github#getting-started), [Visual Studio Code](https://github.com/github/VisualStudio/blob/master/CONTRIBUTING.md) working locally |starbucks gift card|5|[claim the prize](https://github.com/ohub-floss-atl/prizes/issues/new?assignees=&labels=Localhost+an+editor&template=-prize-request--running-it-local--.md&title=%5BPrize%5D)|
+|Documentation PR|Improve documentation Pull Request(PR) |Sppotify gift card + Headphones|5|[claim the prize](https://github.com/ohub-floss-atl/prizes/issues/new?assignees=&labels=documentation+fix&template=-prize-request--improve-documentation-pull-request-pr--.md&title=%5BPrize%5D)|
+|Workflow automation|Build a Probot integration |Octocat Plushie or figurine|12|[claim the prize](https://github.com/ohub-floss-atl/prizes/issues/new?assignees=&labels=probot+integration&template=-prize-request--Build-a-Probot-integration--.md&title=%5BPrize%5D)|
+|Words on the internet|Blog post sharing your experience at FLOSS and Code within 3-days of the event |GitHub t-shirt|~|[claim the prize](https://github.com/ohub-floss-atl/prizes/issues/new?assignees=&labels=documentation+fix&template=-blog.md&title=%5BPrize%5D+Words+on+the+internet)|
+|Successful merge|Successful merged technical PR successful close an issue within 7-days of the event |GitHub hoodie|~|[claim the prize](https://github.com/ohub-floss-atl/prizes/issues/new?assignees=&labels=merged&template=merge.md&title=%5BPrize%5D+Successful+merge)|
 
 *~* *indicates there is no limit on claims to prize*
 
