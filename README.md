@@ -6,6 +6,7 @@ The goal and focus for this event is increasing the awareness of Open Source in 
 [Slack Channel](https://ohub-floss-atl.slack.com)
 
 ## Contributing
+
 1. Fork it (https://github.com/ohub-floss-atl/prizes/fork)
 2. Create your feature branch (git checkout -b feature)
 3. Commit your changes (git commit -am 'feature description')
