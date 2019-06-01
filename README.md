@@ -2,6 +2,9 @@
 
 The goal and focus for this event is increasing the awareness of Open Source in the local developer community. Though there are prizes for specific actions completed,all attendees will be receiving a swag bag for particpiating.
 
+## Communication
+[Slack Channel](https://ohub-floss-atl.slack.com)
+
 ## Prizes
 
 Prizes can only be retrieved 
