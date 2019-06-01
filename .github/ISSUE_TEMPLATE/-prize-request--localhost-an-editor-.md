@@ -1,8 +1,8 @@
 ---
 name: "[Prize Request] Localhost an editor "
 about: " Get GitHub Desktop, Atom, Microsoft VSCode, Visual Studio Code working locally"
-title: "[Prize]"
-labels: Localhost an editor
+title: "[Prize Request] Localhost an editor "
+labels: ''
 assignees: ''
 
 ---
@@ -11,7 +11,7 @@ assignees: ''
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
 **Link to repo**
-[link goes here](/)
+_link to your code_
 
 **Screenshot**
 _Please provide a screenshot of the project running locally below. Please include GUI and terminal_

@@ -2,13 +2,13 @@
 name: "[Prize Request] Successful merge"
 about: 'Successfully have a Pull Reques merged during or after the event (within 7-days). '
 title: "[Prize] Successful merge"
-labels: merged
-assignees: 'bdougie'
+labels: ''
+assignees: bdougie
 
 ---
 
 **Link to blog post**
-[link goes here](/)
+_provide the link to the PR_
 
 **Note**
-Once your PR is confirmed we will need follow up with instructions to send your hoodie. 
+Once your PR is confirmed we will need to follow up with instructions to send your hoodie.

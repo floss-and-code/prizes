@@ -1,14 +1,14 @@
 ---
 name: "[Prize Requets] Build a Probot integration"
-about: 'Build a Probot integration'
-title: "[Prize]"
-labels: probot integration
+about: Build a Probot integration
+title: "[Prize Requets] Build a Probot integration"
+labels: ''
 assignees: ''
 
 ---
 
 **Link to repo**
-[link goes here](/)
+_link to your code on GitHub_
 
-**Note**
-Once your PR is confirmed we will need follow up with instructions to send your t-shirt. 
+**What does your app do?**
+_describe what it does_
