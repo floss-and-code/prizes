@@ -1,7 +1,7 @@
 ---
 name: "[Prize Request] Localhost an editor "
 about: '
-Get GitHub Desktop, Atom, Microsoft VSCode, Visual Studio Code working locally'
+Get [GitHub Desktop](https://github.com/desktop/desktop/blob/development/docs/contributing/setup.md), [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md), [Microsoft VSCode](https://github.com/microsoft/vscode-pull-request-github#getting-started), [Visual Studio Code](https://github.com/github/VisualStudio/blob/master/CONTRIBUTING.md) working locally'
 title: "[Prize]"
 labels: Localhost an editor 
 assignees: ''
