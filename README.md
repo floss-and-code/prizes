@@ -5,9 +5,17 @@ The goal and focus for this event is increasing the awareness of Open Source in 
 ## Communication
 [Slack Channel](https://ohub-floss-atl.slack.com)
 
+## Contributing
+
+1. Fork it (https://github.com/ohub-floss-atl/prizes/fork)
+2. Create your feature branch (git checkout -b feature)
+3. Commit your changes (git commit -am 'feature description')
+4. Push to the branch (git push origin feature)
+5. Create a new Pull Request
+
 ## Prizes
 
-Prizes can only be retrieved 
+Prizes can only be retrieved
 
 |Name|Objective|Prize|Available| Claim prize|
 |-|-|-|-|-|
@@ -21,4 +29,3 @@ Prizes can only be retrieved
 
 ## How claim a prize
 [Please open an issue](https://github.com/ohub-floss-atl/prizes/issues/new/choose) in this repo that corresponds to the objective completed.
-
