@@ -9,3 +9,6 @@ assignees: ''
 
 **Link to blog post**
 [link goes here](/)
+
+**Note**
+Once your PR is confirmed we will need follow up with instructions to send your hoodie. 
